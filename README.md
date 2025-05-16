@@ -18,6 +18,10 @@ We first describe the details of the challenge, and then we provide a documentat
   note      = {Challenge dataset and results from the LLMail-Inject Adaptive Prompt Injection Challenge. Available at \url{https://github.com/microsoft/llmail-inject-challenge}},
 }
 ```
+# Details about the Analysis 
+
+Tbd!
+
 
 # Challenge Details
 
