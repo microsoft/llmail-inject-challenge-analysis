@@ -15,7 +15,7 @@ We first describe the details of the challenge, and then we provide a documentat
   author    = {Sahar Abdelnabi and Aideen Fay and Ahmed Salem and Egor Zverev and Chi-Huang Liu and Chun-Chih Kuo and Jannis Weigend and Danyael Manlangit and Alex Apostolov and Haris Umair and João Donato and Masayuki Kawakita and Athar Mahboob and Tran Huu Bach and Tsun-Han Chiang and Myeongjin Cho and Hajin Choi and Byeonghyeon Kim and Hyeonjin Lee and Benjamin Pannell and Conor Mac Amhlaoibh and Mark Russinovich and Andrew Paverd and Giovanni Cherubin},
   year      = {2025},
   journal   = {Under submission},
-  note      = {Challenge dataset and results from the LLMail-Inject Adaptive Prompt Injection Challenge. Available at \url{https://github.com/microsoft/llmail-inject-challenge}},
+  note      = {Challenge dataset and results from the LLMail-Inject Adaptive Prompt Injection Challenge. Available at \url{https://github.com/microsoft/llmail-inject-challenge-analysis}},
 }
 ```
 # Details about the Analysis 
