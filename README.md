@@ -5,6 +5,8 @@
 
 This repo summarizes the data analysis of the [**dataset**](https://huggingface.co/datasets/microsoft/llmail-inject-challenge) from the now closed [**LLMail-Inject: Adaptive Prompt Injection Challenge**](https://llmailinject.azurewebsites.net/).
 
+This analysis reproduces the main results in our [**paper**](https://arxiv.org/abs/2506.09956).
+
 We first describe the details of the challenge, and then we provide a documentation of the dataset and the details of analysis.
 
 # Citation
@@ -18,9 +20,12 @@ We first describe the details of the challenge, and then we provide a documentat
   note      = {Challenge dataset and results from the LLMail-Inject Adaptive Prompt Injection Challenge. Available at \url{https://github.com/microsoft/llmail-inject-challenge-analysis}},
 }
 ```
-# Details about the Analysis 
+# Details about the Analysis and Content
 
-Tbd!
+- The set of benign emails used in the competition can be found [**here**](https://github.com/microsoft/llmail-inject-challenge-analysis/tree/main/defense_eval/emails_data)
+- TaskTracker trained probes can be found [**here**](https://github.com/microsoft/llmail-inject-challenge-analysis/tree/main/defense_eval/tasktracker_models)
+- Analysis on submissions (such as the ASR plots in the paper and number of trials before success) can be found [**here**](https://github.com/microsoft/llmail-inject-challenge-analysis/tree/main/submission_analysis)
+- Detection rates code and results can be found [**here**](https://github.com/microsoft/llmail-inject-challenge-analysis/tree/main/defense_eval)
 
 
 # Challenge Details
