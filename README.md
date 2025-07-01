@@ -7,17 +7,18 @@ This repo summarizes the data analysis of the [**dataset**](https://huggingface.
 
 This analysis reproduces the main results in our [**paper**](https://arxiv.org/abs/2506.09956).
 
+The challenge code and implementation can be found in this [**repo**](https://github.com/microsoft/llmail-inject-challenge). 
+
 We first describe the details of the challenge, and then we provide a documentation of the dataset and the details of analysis.
 
 # Citation
 
 ```
-@article{abdelnabi2025,
-  title     = {LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge},
-  author    = {Sahar Abdelnabi and Aideen Fay and Ahmed Salem and Egor Zverev and Chi-Huang Liu and Chun-Chih Kuo and Jannis Weigend and Danyael Manlangit and Alex Apostolov and Haris Umair and João Donato and Masayuki Kawakita and Athar Mahboob and Tran Huu Bach and Tsun-Han Chiang and Myeongjin Cho and Hajin Choi and Byeonghyeon Kim and Hyeonjin Lee and Benjamin Pannell and Conor Mac Amhlaoibh and Mark Russinovich and Andrew Paverd and Giovanni Cherubin},
-  year      = {2025},
-  journal   = {Under submission},
-  note      = {Challenge dataset and results from the LLMail-Inject Adaptive Prompt Injection Challenge. Available at \url{https://github.com/microsoft/llmail-inject-challenge-analysis}},
+@article{abdelnabi2025llmail,
+  title     = {LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge},
+  author    = {Sahar Abdelnabi and Aideen Fay and Ahmed Salem and Egor Zverev and Chi-Huang Liu and Chun-Chih Kuo and Jannis Weigend and Danyael Manlangit and Alex Apostolov and Haris Umair and João Donato and Masayuki Kawakita and Athar Mahboob and Tran Huu Bach and Tsun-Han Chiang and Myeongjin Cho and Hajin Choi and Byeonghyeon Kim and Hyeonjin Lee and Benjamin Pannell and Conor Mac Amhlaoibh and Mark Russinovich and Andrew Paverd and Giovanni Cherubin},
+  journal   = {arXiv preprint arXiv:2506.09956},
+  year      = {2025}
 }
 ```
 # Details about the Analysis and Content
